@@ -1,0 +1,9 @@
+{
+  "name": "playground",
+  "devDependencies": {
+    "webpack": "*"
+  },
+  "dependencies": {
+    "xterm": "*"
+  }
+}
