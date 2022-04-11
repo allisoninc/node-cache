@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotificationDrawerBody should match snapshot (auto-generated) 1`] = `
+<div>
+  <div
+    class="pf-c-notification-drawer__body ''"
+  >
+    <div>
+      ReactNode
+    </div>
+  </div>
+</div>
+`;
